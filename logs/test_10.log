@@ -1,0 +1,11 @@
+INFO ===> Test test_10 started at 2024-06-20 18:09:58.336618
+INFO Browser chrome started
+INFO MainPage: Clicked |macbook_link|
+INFO ProductPage: Clicked |review_tab|
+INFO ProductPage: Clicked |review_name_input|
+INFO ProductPage: Writing |NAME| to |review_name_input|
+INFO ProductPage: Clicked |review_text_input|
+INFO ProductPage: Writing |TESTTESTTESTTESTTESTTESTTESTTESTTESTTEST| to |review_text_input|
+INFO ProductPage: Clicked |review_rating_input|
+INFO ProductPage: Clicked |submit_review_button|
+INFO ===> Test test_10 finished at 2024-06-20 18:10:04.285566

@@ -1,0 +1,5 @@
+INFO ===> Test test_6 started at 2024-06-20 18:09:20.026528
+INFO Browser chrome started
+INFO MainPage: Clicked |macbook_link|
+INFO MainPage: Clicked |('css selector', 'div.btn-group:nth-child(1) > button.btn.btn-default:nth-child(1)')|
+INFO ===> Test test_6 finished at 2024-06-20 18:09:25.400350

@@ -1,0 +1,5 @@
+INFO ===> Test test_7 started at 2024-06-20 18:09:29.485376
+INFO Browser chrome started
+INFO MainPage: Clicked |macbook_link|
+INFO MainPage: Clicked |('css selector', '#button-cart')|
+INFO ===> Test test_7 finished at 2024-06-20 18:09:34.774971

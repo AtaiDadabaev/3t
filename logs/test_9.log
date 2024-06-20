@@ -1,0 +1,6 @@
+INFO ===> Test test_9 started at 2024-06-20 18:09:48.785607
+INFO Browser chrome started
+INFO MainPage: Clicked |phones_dropdown|
+INFO MainPage: Clicked |iphone_link|
+INFO MainPage: Clicked |('css selector', '#button-cart')|
+INFO ===> Test test_9 finished at 2024-06-20 18:09:54.267059

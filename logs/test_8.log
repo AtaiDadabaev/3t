@@ -1,0 +1,6 @@
+INFO ===> Test test_8 started at 2024-06-20 18:09:38.828780
+INFO Browser chrome started
+INFO MainPage: Clicked |tablets_dropdown|
+INFO MainPage: Clicked |samsung_galaxy_tab_link|
+INFO MainPage: Clicked |('css selector', '#button-cart')|
+INFO ===> Test test_8 finished at 2024-06-20 18:09:44.726864
